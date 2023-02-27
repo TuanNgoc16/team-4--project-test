@@ -1,0 +1,31 @@
+C:\Users\pnggo\source\repos\Team 4\Team 4\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\pnggo\source\repos\Team 4\Team 4\bin\Debug\net7.0\appsettings.json
+C:\Users\pnggo\source\repos\Team 4\Team 4\bin\Debug\net7.0\Team 4.staticwebassets.runtime.json
+C:\Users\pnggo\source\repos\Team 4\Team 4\bin\Debug\net7.0\Team 4.exe
+C:\Users\pnggo\source\repos\Team 4\Team 4\bin\Debug\net7.0\Team 4.deps.json
+C:\Users\pnggo\source\repos\Team 4\Team 4\bin\Debug\net7.0\Team 4.runtimeconfig.json
+C:\Users\pnggo\source\repos\Team 4\Team 4\bin\Debug\net7.0\Team 4.dll
+C:\Users\pnggo\source\repos\Team 4\Team 4\bin\Debug\net7.0\Team 4.pdb
+C:\Users\pnggo\source\repos\Team 4\Team 4\obj\Debug\net7.0\Team 4.csproj.AssemblyReference.cache
+C:\Users\pnggo\source\repos\Team 4\Team 4\obj\Debug\net7.0\Team 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pnggo\source\repos\Team 4\Team 4\obj\Debug\net7.0\Team 4.AssemblyInfoInputs.cache
+C:\Users\pnggo\source\repos\Team 4\Team 4\obj\Debug\net7.0\Team 4.AssemblyInfo.cs
+C:\Users\pnggo\source\repos\Team 4\Team 4\obj\Debug\net7.0\Team 4.csproj.CoreCompileInputs.cache
+C:\Users\pnggo\source\repos\Team 4\Team 4\obj\Debug\net7.0\Team 4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pnggo\source\repos\Team 4\Team 4\obj\Debug\net7.0\Team 4.RazorAssemblyInfo.cache
+C:\Users\pnggo\source\repos\Team 4\Team 4\obj\Debug\net7.0\Team 4.RazorAssemblyInfo.cs
+C:\Users\pnggo\source\repos\Team 4\Team 4\obj\Debug\net7.0\staticwebassets\msbuild.Team 4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pnggo\source\repos\Team 4\Team 4\obj\Debug\net7.0\staticwebassets\msbuild.build.Team 4.props
+C:\Users\pnggo\source\repos\Team 4\Team 4\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Team 4.props
+C:\Users\pnggo\source\repos\Team 4\Team 4\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Team 4.props
+C:\Users\pnggo\source\repos\Team 4\Team 4\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\pnggo\source\repos\Team 4\Team 4\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\pnggo\source\repos\Team 4\Team 4\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\pnggo\source\repos\Team 4\Team 4\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pnggo\source\repos\Team 4\Team 4\obj\Debug\net7.0\scopedcss\bundle\Team 4.styles.css
+C:\Users\pnggo\source\repos\Team 4\Team 4\obj\Debug\net7.0\scopedcss\projectbundle\Team 4.bundle.scp.css
+C:\Users\pnggo\source\repos\Team 4\Team 4\obj\Debug\net7.0\Team 4.dll
+C:\Users\pnggo\source\repos\Team 4\Team 4\obj\Debug\net7.0\refint\Team 4.dll
+C:\Users\pnggo\source\repos\Team 4\Team 4\obj\Debug\net7.0\Team 4.pdb
+C:\Users\pnggo\source\repos\Team 4\Team 4\obj\Debug\net7.0\Team 4.genruntimeconfig.cache
+C:\Users\pnggo\source\repos\Team 4\Team 4\obj\Debug\net7.0\ref\Team 4.dll
